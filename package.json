@@ -28,6 +28,6 @@
     "dirs-in-dir": "^1.0.2",
     "files-in-dir": "^1.0.0",
     "http-server": "^0.11.1",
-    "open-cli": "^5.0.0"
+    "open-cli": "^6.0.1"
   }
 }
