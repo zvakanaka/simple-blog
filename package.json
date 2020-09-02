@@ -27,7 +27,7 @@
     "bower": "^1.8.8",
     "dirs-in-dir": "^1.0.2",
     "files-in-dir": "^1.0.0",
-    "http-server": "^0.11.1",
+    "http-server": "^0.12.3",
     "open-cli": "^5.0.0"
   }
 }
